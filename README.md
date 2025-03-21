@@ -5,6 +5,6 @@
     der skal være en knap med teksten beregn, der trigger en beregning af valuta baseret på input. 
     resultatet skal vises i et dom element.
 
-  Design gennemgåes af din underviser.
+  Design er frit.
 
   
